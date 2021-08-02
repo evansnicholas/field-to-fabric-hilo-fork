@@ -1,8 +1,0 @@
-{
-  "stepsPerCm": 30.47,
-  "deliverySpeedSteps": 300,
-  "draftingSpeedPercMax": 80,
-  "draftingSpeedPercMin": 20,
-  "spindleSpeedStepsMax": 700,
-  "spindleSpeedStepsMin": 200
-}
