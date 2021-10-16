@@ -4,7 +4,7 @@ Studio HILO creates playgrounds for independent yarn manufacturing and empowers 
 More information: www.studiohilo.com
 
 What can you do with the HILO Spinning Machine/Software?
-With hardware (HILO Spinning Machine) and software (HILO App) you can create different kinds of yarns. The software helps you to design and plan the yarn digitally – for weaving or knitting textiles. The hardware allows you to spin and twist the personalized yarn, all you have to do is to insert raw fibres of your choice (e.g. wool, flax, plastics) and press play. This is a tool for prototyping and experimenting!
+With hardware (HILO Spinning Machine) and software (HILO App) you can create different kinds of yarns. The software helps you to design and plan the yarn digitally – for weaving or knitting textiles. The hardware allows you to spin and twist the personalized yarn, all you have to do is to insert raw fibres of your choice (e.g. wool, silk, plastics) and press play. This is a tool for prototyping and experimenting!
 
 How does this instruction work?
 We made a step by step instruction for materials order, hardware construction and software control. Just follow the order of the folders and in each folder you will find a readme.pdf that instructs you – please read it first of all.
@@ -15,8 +15,7 @@ What are the steps?
 3. Prepare_3-D and laser cutting
 4. Build_HILO Spinning Machine
 5. Download_HILO App
-6. Connect_Arduino
-7. Documentation_HILO Software
+6. Connect_HILO Spinning Machine & App
 8. How to start?
 
 What is the status quo of this project?
