@@ -2,14 +2,12 @@
 |Part|Description	|Menge|
 |:---|:---|:---|
 |Arduino Mega	|computersystem for running spinningwheel	|1|
-|Motor_NEMA17	|Hybrid Stepper Motor for 3D Printer	|5|
-|End stopper	|Micro limit switch	|2|
+|Motor_NEMA17	|Hybrid Stepper Motor for 3D Printer with 1m Cable and connector |5|
+|End stopper	|Micro limit switch with 1m cable	|1|
 |PC power supply (ATX) + cable	|420W, Akyga AK-B1-420	|1|
 |Driver modules	|Pololu, based on A4988	|4|
 |Motorshield - RAMPS 1.4 shield	|Motorshield for aduino Mega	|1|
-|Heat sinks	|Heat Sink 8.8mm x 8.8mm x 5mm	|5|
-|Conectores	|female to female - 3-pin	|2|
-|Conectores	|female to female - 4-pin	|5|
+|Heat sinks	|Heat Sink 8.8mm x 8.8mm x 5mm	|4|
 |Heat-shrink Tubing	|Holding in place wire	|1|
 
 
@@ -80,7 +78,7 @@
 
 |Part| Total|
 |:---|:---|
-|Linear bearing|		2|
+|Linear bearing SC8UU|		2|
 |Nema 17 Stepper Motor|		1|
 |3D Printed Spindel Plattform A|		1|
 |3D Printed Spindel Plattform B|		1|
