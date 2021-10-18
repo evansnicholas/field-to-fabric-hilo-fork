@@ -135,5 +135,5 @@
 |Cylindrical screw M4x14|		1|
 |T-Nut Hammer Head M4|		3|
 |Cylindrical screw M4x8|		2|
-|Velcro Fastener Loop|	etwa 200mm	1|
-|Velcro Fastener Hook|	etwa 70mm	1|
+|Poliester Band|	etwa 200mm	1|
+|Velcro Fastener Loop and Hook|	etwa 70mm	1|
