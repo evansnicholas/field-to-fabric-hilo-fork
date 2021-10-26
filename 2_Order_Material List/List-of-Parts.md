@@ -62,7 +62,7 @@
 |3D Drive Wheel |	1|	2|
 
 # Group: Trailing Wheel (in Maschine 2x)		
-|Part|	für eine Baugruppe|	für gesamte Maschine|
+|Part|	For Group|	Total machine|
 |:---|:---|:---|
 |Hexagon Head Screws with Shaft M8 x 80|	1|	2|
 |Aluminium Spacer Sleeve 8mm x 6mm x 1mm (Outside x Inside x Wall Thickness) size 5mm|	2|	4|
