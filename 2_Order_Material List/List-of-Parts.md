@@ -2,7 +2,7 @@
 |Part|Description	|Menge|
 |:---|:---|:---|
 |Arduino Mega	|computersystem for running spinningwheel	|1|
-|Motor_NEMA17	|Hybrid Stepper Motor for 3D Printer with 1m Cable and connector |5|
+|Motor_NEMA17	|Hybrid Stepper Motor for 3D Printer with 1m Cable and connector |4|
 |End stopper	|Micro limit switch with 1m cable	|1|
 |PC power supply (ATX) + cable	|420W, Akyga AK-B1-420	|1|
 |Driver modules	|Pololu, based on A4988	|4|
