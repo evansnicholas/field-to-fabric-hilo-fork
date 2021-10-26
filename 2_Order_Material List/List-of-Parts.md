@@ -43,8 +43,8 @@
 ||	200 mm	|2|
 ||	225mm 	|1|
 |3030 Covers||		5|
-|Angle with Nut M8 for 3030 Profil||		11|
-|Cylindrical screw M4x10|	|	22|
+|Angle with Nut M8 for 3030 Profil||		15|
+|Cylindrical screw M4x10|	|	30|
 
 # Group: Drive Wheel (in Machine 2x)
 
