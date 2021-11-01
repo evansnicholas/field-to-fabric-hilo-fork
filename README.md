@@ -10,13 +10,12 @@ How does this instruction work?
 We made a step by step instruction for materials order, hardware construction and software control. Just follow the order of the folders and in each folder you will find a readme.pdf that instructs you – please read it first of all.
 
 What are the steps?
-1. Introduction
-2. Order_Material List
-3. Prepare_3-D and laser cutting
-4. Build_HILO Spinning Machine
-5. Download_HILO App
-6. Connect_HILO Spinning Machine & App
-8. How to start?
+* Introduction
+* List of Parts
+* Prepare_3-D and laser cutting
+* Files
+* Build_HILO Spinning Machine
+* How to start?
 
 What is the status quo of this project?
 We documented every part for the HILO Spinning Machine 3.0 / Software but we continue working on both. This project is at an early stage of development, every piece of hardware and software is in beta version.
