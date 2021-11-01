@@ -10,11 +10,10 @@ We made a step by step instruction for materials order, hardware construction an
 What are the steps?
 
 * Introduction
-* Order_Material List
+* List of Parts
 * Prepare_3-D and laser cutting
+* Files
 * Build_HILO Spinning Machine
-* Download_HILO App
-* Connect_HILO Spinning Machine & App
 * How to start?
 
 ## What is the status quo of this project?
