@@ -12,11 +12,13 @@ What are the steps?
 * Introduction
 * List of Parts
 * Files
-* Build_HILO Spinning Machine
-* How to start spinning?
+* Software
+* Hardware
+* How to start spinning
 
 What is the status quo of this project?
 We documented every part for the HILO Spinning Machine 3.0 / Software but we continue working on both. This project is at an early stage of development, every piece of hardware and software is in beta version.
+
 How to reach out for support?
 We built this, but we need your help to adjust and improve the current prototype. Send us your ideas, experiments, bugs and improvements. We are happy to see our project grow! Get in touch with us via diy@studiohilo.com
 
