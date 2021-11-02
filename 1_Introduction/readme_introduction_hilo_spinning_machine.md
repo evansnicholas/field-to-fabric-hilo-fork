@@ -11,10 +11,9 @@ What are the steps?
 
 * Introduction
 * List of Parts
-* Prepare_3-D and laser cutting
 * Files
 * Build_HILO Spinning Machine
-* How to start?
+* How to start spinning?
 
 ## What is the status quo of this project?
 We documented every part for the HILO Spinning Machine 3.0 / Software but we continue working on both. This project is at an early stage of development, every piece of hardware and software is in beta version.
