@@ -1,7 +1,6 @@
 Who is Studio HILO?
 
-Studio HILO creates playgrounds for independent yarn manufacturing and empowers people for local production. The HILO Spinning Machine (and Software) is an open source project by Studio HILO and allows users to produce their own customized yarn.
-More information: www.studiohilo.com
+Studio HILO is a Berlin-based studio for textile innovation. We rethink the textile industry by offering open tools and expertise for small-scale textile manufacturing environments. HILO’s mission is to create playgrounds for independent yarn production. The HILO Spinning Machine (and Software) is an open source project by Studio HILO and allows users to produce their own customized yarn. More information: www.studiohilo.com
 
 What can you do with the HILO Spinning Machine/Software?
 With hardware (HILO Spinning Machine) and software (HILO App) you can create different kinds of yarns. The software helps you to design and plan the yarn digitally – for weaving or knitting textiles. The hardware allows you to spin and twist the personalized yarn, all you have to do is to insert raw fibres of your choice (e.g. wool, silk, plastics) and press play. This is a tool for prototyping and experimenting!
