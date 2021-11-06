@@ -1,5 +1,5 @@
-# Description of Groups Components Description|
-## Group Structure|
+# Description of Groups Components Description
+## Group Structure
 |Type |Component |Amount|Description|Link|
 |:---|:---|:---|:---|:---|
 |Frame |Makerbeam 3030 T-Slot Nut 8mm Profil |1|540mm|[aluprofile24](https://aluprofile24.de/product_info.php?info=p209_strebenprofil-30x30mm-nut-8-schwarz---zuschnitt.html)|
