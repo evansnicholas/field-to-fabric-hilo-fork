@@ -1,8 +1,9 @@
 # Description of Groups Components Description
 
 ## Group: Elevator
+
 |Type |Component |Amount|Description|Link|
-|:---|:---|:---|:---|:---|:---|
+|:---|:---|:---|:---|:---|
 |Hardware|Cylindrical screw M3x20|4|ISO 4762 M3 x 20|Hardware store|
 |Hardware|Cylindrical screw  M8x20|1|EN ISO 4762 M8 x 19|Hardware store|
 |Hardware|Cylindrical screw M3x30|4|ISO 4762 M3 x 30|Hardware store|
