@@ -19,7 +19,7 @@
 |Hardware|Hexagon Head Screws with Shaft M8 x 80|2|DIN 931 8.8 M8 x 80|Hardware store|
 |Hardware|Nut M3|20|ISO 4032 - M3|Hardware store|
 |Hardware|Lock Nut M8|2|ISO 4032 - M8|Hardware store|
-|Hardware|T-Nut M4|41|GN505 M4|[tme](https://www.tme.eu/at/details/gn505-10-m4-mb/profil-zubehor/elesa-ganter/gn-505-10-m4-mb/)|
+|Hardware|T-Nut M4|41|GN 505 M4|[tme](https://www.tme.eu/at/details/gn505-10-m4-mb/profil-zubehor/elesa-ganter/gn-505-10-m4-mb/)|
 |Hardware|Trapezoidal Screw Nut T8|1||[Amazon](https://www.amazon.com/ReliaBot-300mm-Thread-Starts-Printer/dp/B07B63CVSJ/ref=sr_1_1?dchild=1&keywords=ReliaBot%2B250%2Bmm%2BT8%2Bthreaded%2Bspindle%2Band%2Bbrass%2Bnut%2B(Acme%2Bthread%2C%2B2%2Bmm%2Bthread%2Bpitch%2C%2B4%2Bstart%2C%2B8%2Bmm%2Bpitch%29%2Bfor%2B3D%2Bprinters%2Band%2BCNC%2Bmachine%2BZ-axis&qid=1635337457&sr=8-1&th=1)|
 |Hardware|Covers|5|30 x 30 cm|[Aluprofile24](https://aluprofile24.de/product_info.php?info=p274_profilabdeckkappe-30x30i.html)|
 |Hardware|Hinge for 3030 Profil|1|30 x 30   M8|[Aluprofile24](https://aluprofile24.de/product_info.php?info=p99_gelenk.html)|
