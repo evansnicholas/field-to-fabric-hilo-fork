@@ -68,6 +68,6 @@
 |Tools|Caliper|1||Hardware store|
 |Tools|Contact glue|1||Hardware store|
 |Tools|Instant glue|1||Hardware store|
-|Tools|Tap wrench M8|1|[Youtube](https://www.youtube.com/watch?v=S_FIGFhsWW4)|Hardware store|
+|Tools|Tap wrench | DIN 352 M8||Hardware store [Youtube](https://www.youtube.com/watch?v=S_FIGFhsWW4)|
 |Tools|Metal saw|1|For metal|Hardware store|
 |Tools|Allen key set|1|For M3 to M8 |Hardware store|
