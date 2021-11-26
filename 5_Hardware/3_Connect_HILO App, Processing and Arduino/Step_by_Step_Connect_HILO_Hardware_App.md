@@ -79,3 +79,7 @@ After you install Processing please follow the next steps to open the HILO_App â
     19. After selecting the correct port you will come back to the adjustment preview from before. 
 		Here you can change settings, produce and adjust directly by pressing PLAY and PAUSE.  â†’ 
 <img src="./media/image11.png" alt="HILO" width="300"/>
+
+    20. Please Calibrate the Motors before you start working with the Spinning Machine
+    * Check this link to calibrate the Driver Modules 
+    https://www.youtube.com/watch?v=VyHhRsN7Wr0
