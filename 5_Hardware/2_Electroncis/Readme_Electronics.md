@@ -53,5 +53,3 @@ In this scene you will connect all necessary components to make the HILO Spinnin
 <img src="./media/image9.jpg" alt="adapter" width="200"/>  
 <img src="./media/image3.jpg" alt="connectedtoboard" width="200"/>  
 
-* Check this link to calibrate the Driver Modules 
-https://www.youtube.com/watch?v=VyHhRsN7Wr0
